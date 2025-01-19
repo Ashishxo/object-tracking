@@ -1,13 +1,5 @@
 # Object Tracking using YOLOv5 and OpenCV
 
-### New Features
-- YOLOv5 Object Tracking Using Sort Tracker
-- Added Object blurring Option
-- Added Support of Streamlit Dashboard
-- Code can run on Both (CPU & GPU)
-- Video/WebCam/External Camera/IP Stream Supported
-
-
 
 ### Steps to run Code
 1 - Clone the repository
